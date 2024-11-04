@@ -721,11 +721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jmic/dev.net/empty/empty.csproj",
+      "projectUniqueName": "/mnt/c/Users/junio/Desktop/dev.net/empty/empty.csproj",
       "projectName": "empty",
-      "projectPath": "/home/jmic/dev.net/empty/empty.csproj",
+      "projectPath": "/mnt/c/Users/junio/Desktop/dev.net/empty/empty.csproj",
       "packagesPath": "/home/jmic/.nuget/packages/",
-      "outputPath": "/home/jmic/dev.net/empty/obj/",
+      "outputPath": "/mnt/c/Users/junio/Desktop/dev.net/empty/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jmic/.nuget/NuGet/NuGet.Config"

@@ -36,3 +36,4 @@
 /mnt/c/Users/junio/Desktop/dev.net/empty/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
 /mnt/c/Users/junio/Desktop/dev.net/empty/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
 /mnt/c/Users/junio/Desktop/dev.net/empty/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/mnt/c/Users/junio/Desktop/dev.net/empty/obj/Debug/net8.0/empty.sourcelink.json
